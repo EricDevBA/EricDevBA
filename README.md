@@ -9,4 +9,7 @@ I'm Eric Rosário, I'm Full Stack and SalesForce Developer, studying for certifi
 - 💬 Ask me about: technology,coffee,games and movies
 - ⚡ Technologies: SalesForce,JS,PHP,Angular
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevBA&layout=compact&theme=radical)
+
 "Every programmer is an author." 
