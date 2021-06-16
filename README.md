@@ -4,9 +4,9 @@
 ## Hi 👋, 
 I'm Eric Rosário, I'm Full Stack and SalesForce Developer, studying for certifications and every day seaching knowledge 👨🏽‍💻
 
-- 🔭 I’m currently working on SalesForce Developer and Admin
+- 🔭 I’m currently working with Salesforce
 - 🌱 I’m currently learning JS,Apex,Lightning Web Components and English Conversations
-- 💬 Ask me about: technology,coffee,games and movies
+- 💬 Ask me about: technology,series,movies,games,football or whatever
 - ⚡ Technologies: SalesForce,JS,PHP,Angular
 
 
