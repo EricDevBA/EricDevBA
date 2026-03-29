@@ -1,79 +1,63 @@
-<!-- Banner animado -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║          SALESFORCE SENIOR DEVELOPER & ARCHITECT          ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0176D3,100:00A1E0&height=160&section=header&text=Eric%20Rosário&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Salesforce%20Senior%20Developer%20%7C%20Tech%20Lead&descSize=16&descAlignY=78&descColor=e0f4ff" />
 
-# Olá, eu sou Eric Rosário 👋
+<br/>
 
-### Desenvolvedor Sênior Salesforce · Arquiteto de Software · Solucionador de Problemas
-
-[![Trailhead](https://img.shields.io/badge/Trailhead-Meu%20Perfil-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ersantos)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-rosario/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eric%20Rosário-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-rosario/)
+[![Trailhead](https://img.shields.io/badge/Trailhead-ersantos-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ersantos)
 
 </div>
 
 ---
 
-## 🧭 Sobre Mim
+## `$ whoami`
 
-> *"Transformo desafios de negócio em soluções Salesforce robustas, escaláveis e elegantes."*
+> Salesforce Developer with 7+ years of experience building scalable, high-impact solutions across multiple clouds, integrations, and DevOps practices.
 
-Sou um **Desenvolvedor Sênior Salesforce** apaixonado por criar arquiteturas sólidas e experiências excepcionais dentro do ecossistema Salesforce. Com formação em **Análise e Desenvolvimento de Sistemas** e pós-graduação em **Arquitetura de Software**, levo uma abordagem estratégica e orientada a resultados para cada projeto.
-
-Acredito que código bem escrito não é apenas funcional — ele conta uma história e resolve problemas reais.
+```
+🎓  Postgraduate in Software Architecture
+📐  Systems Analysis and Development (B.Sc.)
+📍  Salvador, Bahia — Brazil
+```
 
 ---
 
-## 🏅 Certificações Salesforce
+## 🏅 Salesforce Certifications
 
 <div align="center">
 
-<img src="https://developer.salesforce.com/resource/images/trailhead/badges/certifications/trailhead_certification_administrator.png" width="120" alt="Salesforce Certified Administrator" title="Salesforce Certified Administrator"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://developer.salesforce.com/resource/images/trailhead/badges/certifications/trailhead_certification_associate.png" width="120" alt="Salesforce Certified Associate" title="Salesforce Certified Associate"/>
-
-**Salesforce Certified Administrator** &nbsp;|&nbsp; **Salesforce Certified Associate**
+<img src="badge-admin.svg" width="160" alt="Salesforce Certified Administrator" title="Salesforce Certified Administrator"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="badge-associate.svg" width="160" alt="Salesforce Certified Associate" title="Salesforce Certified Associate"/>
 
 </div>
 
 ---
 
-## 🎓 Formação Acadêmica
-
-```
-🎓  Pós-Graduação em Arquitetura de Software
-📐  Análise e Desenvolvimento de Sistemas
-```
-
----
-
-## ⚡ Stack & Especialidades
+## ⚡ Stack & Expertise
 
 **Salesforce Core**
 
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Flow Builder](https://img.shields.io/badge/Flow%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentforce](https://img.shields.io/badge/Agentforce-032D60?style=for-the-badge&logo=salesforce&logoColor=white)
 
-**Integrações & APIs**
+**Integrations & APIs**
 
-![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=flat-square&logo=json&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=flat-square&logo=mulesoft&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=json&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=mulesoft&logoColor=white)
 
-**Arquitetura & Boas Práticas**
+**Architecture & Best Practices**
 
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-333?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-333?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID%20Principles-333?style=flat-square)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-333?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1a1a2e?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-1a1a2e?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-1a1a2e?style=for-the-badge&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1a1a2e?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -81,30 +65,32 @@ Acredito que código bem escrito não é apenas funcional — ele conta uma hist
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EricDevBA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 🏆 Achievements
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevBA&layout=compact&theme=tokyonight&hide_border=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=EricDevBA&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/EricDevBA)
 
-</div>
+### 📈 Statistics & Streak
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=EricDevBA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=EricDevBA&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
-## 🤝 Vamos Conversar?
+### 🗣️ Languages Across Repositories
 
-Estou sempre aberto para discutir novas oportunidades, desafios técnicos no ecossistema Salesforce ou simplesmente trocar ideias sobre arquitetura de software.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meu%20Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-rosario/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevBA&theme=tokyonight&hide_border=true&langs_count=10&layout=pie" alt="Top Languages"/>
 
 </div>
 
 ---
 
+## 🤝 Let's Talk?
+
+I'm always open to discussing new opportunities, technical challenges in the Salesforce ecosystem, or exchanging ideas about software architecture.
+
 <div align="center">
 
-*"A melhor arquitetura é aquela que resolve o problema certo, da forma certa, no momento certo."*
-
-⚡ **Powered by Salesforce · Driven by Architecture · Trailblazer de Coração**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-My%20Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-rosario/)
+[![Trailhead](https://img.shields.io/badge/Trailhead-My%20Profile-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ersantos)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:0176D3&height=100&section=footer" />
