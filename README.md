@@ -65,12 +65,12 @@
 
 ### 📈 Statistics & Streak
 
-<img src="https://github-readme-stats.vercel.app/api?username=EricDevBA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=EricDevBA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com?user=EricDevBA&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 
 ### 🗣️ Languages Across Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevBA&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=EricDevBA&theme=tokyonight&hide_border=true&langs_count=8&layout=compact&card_width=445" alt="Top Languages"/>
 
 </div>
 
