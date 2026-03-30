@@ -70,7 +70,7 @@
 
 ### 🗣️ Languages Across Repositories
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevBA&theme=tokyonight&hide_border=true&langs_count=10&layout=pie" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricDevBA&theme=tokyonight&hide_border=true&langs_count=10&layout=compact" alt="Top Languages"/>
 
 </div>
 
